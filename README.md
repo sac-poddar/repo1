@@ -1,4 +1,4 @@
-# repo fot testing
+# repo for testing
 # another line
 # third line
 # fourth line
